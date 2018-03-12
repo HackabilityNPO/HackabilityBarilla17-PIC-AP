@@ -1,4 +1,4 @@
-# PIC-AP
+# PIC-AP
 ## PIccola Cucina Accessibile Portatile (Small Portable Accessible Kitchen)
 ### Hackability@Barilla 2017
 
@@ -11,9 +11,9 @@
 
 
 
-## Personal kit and minimum laptop to prepare food.
+## Personal kit and minimum laptop to prepare food.
 
-### Scenario
+### Scenario
 
 Marco, visually impaired, needs an extremely organized workspace to cook in safety and with comfort. Work tools must always be in the same position and be easily distinguishable by contrast and color. PIC-AP offers a "comfort zone": a minimal and personal working environment, where the visually impaired people can work safely, having the certainty of finding his instruments.
 The functionality of the project makes an appropriate tool to give (or re-give) the ability to prepare food anywhere and independently, making it a product suitable for different types of users. It’s not connoted as equipment for people with disabilities.
@@ -26,7 +26,7 @@ The functionality of the project makes an appropriate tool to give (or re-give) 
 - possibility of arranging according to the desired lighting
 - possibility to bring the kit where we want (in another room or in another house!)
 
-### Toolbox contents:
+### Toolbox contents:
 
 The kit is custom designed from IKEA kitchen utensils, easy to find and affordable.
 - chopping board
@@ -35,14 +35,14 @@ The kit is custom designed from IKEA kitchen utensils, easy to find and affordab
 - potato peeler
 - cheese grater
 
-## Visual requirements:
+### Visual requirements:
 - avoid dazzling / transparent materials that do not reflect light
 - Prepare opaque materials
 - have chromatic contrasts of at least 70% (consult color contrast tables)
 - avoid using too many colors
 - take into account the different situations of low vision
 
-## Hot to reproduce it
+### Hot to reproduce it
 
 1. Use the files “lasercut” to cut the plexiglass 4mm
 2. Use the files “cnc mill” to cut wood 10mm, we suggest Beech wood
@@ -52,7 +52,7 @@ The kit is custom designed from IKEA kitchen utensils, easy to find and affordab
 6. Wash all the parts and wait until it’s dry
 7. Start use PIC-AP
 
-## Credits:
+### Credits:
 - Marco Boneschi 
 - Fabrizio De Paoli (designer), info@digitalfucina.com
 - Sebastiano Ercoli (designer), sebastiano.ercoli@gmail.com
